@@ -7,7 +7,7 @@
 
 > A beautiful, fully responsive frontend-only Indian food recipe website with 22+ authentic recipes, search functionality, category filters, and favorite recipes storage.
 
-🔗 **Live Demo: [View Project]([https://your-username.github.io/rasoimagic](https://anishraj9789.github.io/-ZaykaHouse_DecodeLabs/)) 
+🔗 Live Demo: https://anishraj9789.github.io/-ZaykaHouse_DecodeLabs/
 
 
 ## 📌 Table of Contents
