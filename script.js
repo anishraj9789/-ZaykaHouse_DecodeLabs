@@ -1,6 +1,4 @@
-// ---------- RECIPE DATABASE (22 Recipes with Detailed Steps) ----------
 const recipes = [
-    // ========== NORTH INDIAN (6 dishes) ==========
     {
         id: 1,
         name: "Paneer Butter Masala",
@@ -517,7 +515,6 @@ function closeModal() {
     modal.style.display = "none";
 }
 
-// ----- Update Filter UI and Re-render-----
 function initFilters() {
     const filterContainer = document.getElementById("filterContainer");
     const categories = ["All", "North Indian", "South Indian", "Snacks", "Desserts"];
@@ -534,7 +531,6 @@ function initFilters() {
     });
 }
 
-// ----- Event Listeners -----
 const searchInput = document.getElementById("searchInput");
 searchInput.addEventListener("input", (e) => {
     searchQuery = e.target.value;
@@ -546,6 +542,5 @@ window.addEventListener("click", (e) => {
     if (e.target === modal) closeModal();
 });
 
-// ----- Initial Render -----
 initFilters();
 renderRecipes();
