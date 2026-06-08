@@ -4,6 +4,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Responsive](https://img.shields.io/badge/Responsive-Yes-brightgreen?style=for-the-badge)
+![Internship](https://img.shields.io/badge/CodeAlpha-Internship-orange?style=for-the-badge)
 
 > A beautiful, fully responsive frontend-only Indian food recipe website with 22+ authentic recipes, search functionality, category filters, and favorite recipes storage.
 
