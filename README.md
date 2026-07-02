@@ -40,4 +40,3 @@
 | 💾 **No Backend Required** | Pure HTML/CSS/JS - runs entirely in browser |
 
 
-### Desktop View (4 columns)
